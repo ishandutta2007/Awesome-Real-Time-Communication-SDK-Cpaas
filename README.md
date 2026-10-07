@@ -67,86 +67,86 @@ This repository tracks notable **commercial CPaaS platforms** and **open-source 
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* ⭐
+*Sorted by GitHub Stars_Count (Descending)* ⭐
 
 ### 📹 WebRTC Platforms & SFU Media Servers
 
-- **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** [![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers)  
+- **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** [![GitHub_Stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers)  
   🎥 **Leading open-source video conferencing platform** (Apache-2.0). WebRTC-based with scalable SFU architecture, embeddable via IFrame API and native mobile SDKs. Best for self-hosted video meetings.
 
-- **[LiveKit](https://github.com/livekit/livekit)** [![GitHub stars](https://img.shields.io/github/stars/livekit/livekit?style=social&color=white)](https://github.com/livekit/livekit/stargazers)  
+- **[LiveKit](https://github.com/livekit/livekit)** [![GitHub_Stars](https://img.shields.io/github/stars/livekit/livekit?style=social&color=white)](https://github.com/livekit/livekit/stargazers)  
   ⚡ **High-performance WebRTC developer stack** (Apache-2.0). Scalable Go SFU backend with client SDKs for JS/TS, React, Swift, Kotlin, Flutter, Python, Go, and Unity. Best for custom real-time video/audio apps & AI voice agents.
 
-- **[Pion WebRTC](https://github.com/pion/webrtc)** [![GitHub stars](https://img.shields.io/github/stars/pion/webrtc?style=social&color=white)](https://github.com/pion/webrtc/stargazers)  
+- **[Pion WebRTC](https://github.com/pion/webrtc)** [![GitHub_Stars](https://img.shields.io/github/stars/pion/webrtc?style=social&color=white)](https://github.com/pion/webrtc/stargazers)  
   🐹 **Pure Go implementation of WebRTC** (MIT). Zero Cgo dependencies, modular architecture for custom SFUs, MCU, and data channel servers. Best for Go-native RTC infrastructure.
 
-- **[Janus WebRTC Server](https://github.com/meetecho/janus-gateway)** [![GitHub stars](https://img.shields.io/github/stars/meetecho/janus-gateway?style=social&color=white)](https://github.com/meetecho/janus-gateway/stargazers)  
+- **[Janus WebRTC Server](https://github.com/meetecho/janus-gateway)** [![GitHub_Stars](https://img.shields.io/github/stars/meetecho/janus-gateway?style=social&color=white)](https://github.com/meetecho/janus-gateway/stargazers)  
   🧩 **General-purpose C WebRTC Gateway** (GPL-3.0). Modular plugin architecture supporting VideoRoom, SIP gateway, RTSP streaming, and AudioBridge. Best for flexible WebRTC routing.
 
-- **[mediasoup](https://github.com/versatica/mediasoup)** [![GitHub stars](https://img.shields.io/github/stars/versatica/mediasoup?style=social&color=white)](https://github.com/versatica/mediasoup/stargazers)  
+- **[mediasoup](https://github.com/versatica/mediasoup)** [![GitHub_Stars](https://img.shields.io/github/stars/versatica/mediasoup?style=social&color=white)](https://github.com/versatica/mediasoup/stargazers)  
   🚀 **Cutting-edge WebRTC SFU library** (ISC). High-performance C++ core with Node.js & Rust bindings. Best for building bespoke multi-party video conferencing engines.
 
-- **[OpenVidu](https://github.com/OpenVidu/openvidu)** [![GitHub stars](https://img.shields.io/github/stars/OpenVidu/openvidu?style=social&color=white)](https://github.com/OpenVidu/openvidu/stargazers)  
+- **[OpenVidu](https://github.com/OpenVidu/openvidu)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenVidu/openvidu?style=social&color=white)](https://github.com/OpenVidu/openvidu/stargazers)  
   📦 **Complete WebRTC application platform** (Apache-2.0). High-level abstractions for multi-party video calls with ready-made client SDKs for JS, Angular, React, Vue, iOS, and Android.
 
-- **[Kurento](https://github.com/Kurento/kurento)** [![GitHub stars](https://img.shields.io/github/stars/Kurento/kurento?style=social&color=white)](https://github.com/Kurento/kurento/stargazers)  
+- **[Kurento](https://github.com/Kurento/kurento)** [![GitHub_Stars](https://img.shields.io/github/stars/Kurento/kurento?style=social&color=white)](https://github.com/Kurento/kurento/stargazers)  
   🛠️ **WebRTC media server & framework** (Apache-2.0). Advanced media processing pipelines including computer vision, augmented reality filters, and recording.
 
-- **[MiroTalk P2P](https://github.com/mirotalk/mirotalk)** [![GitHub stars](https://img.shields.io/github/stars/mirotalk/mirotalk?style=social&color=white)](https://github.com/mirotalk/mirotalk/stargazers)  
+- **[MiroTalk P2P](https://github.com/mirotalk/mirotalk)** [![GitHub_Stars](https://img.shields.io/github/stars/mirotalk/mirotalk?style=social&color=white)](https://github.com/mirotalk/mirotalk/stargazers)  
   🔒 **Simple, secure WebRTC peer-to-peer video calls** (AGPL-3.0). Zero-installation browser conferencing with screen sharing and chat.
 
-- **[Galene](https://github.com/jech/galene)** [![GitHub stars](https://img.shields.io/github/stars/jech/galene?style=social&color=white)](https://github.com/jech/galene/stargazers)  
+- **[Galene](https://github.com/jech/galene)** [![GitHub_Stars](https://img.shields.io/github/stars/jech/galene?style=social&color=white)](https://github.com/jech/galene/stargazers)  
   🍃 **Lightweight Go video conferencing server** (MIT). Designed for low-resource servers, lectures, and small team video meetings.
 
-- **[SIP.js](https://github.com/onsip/SIP.js)** [![GitHub stars](https://img.shields.io/github/stars/onsip/SIP.js?style=social&color=white)](https://github.com/onsip/SIP.js/stargazers)  
+- **[SIP.js](https://github.com/onsip/SIP.js)** [![GitHub_Stars](https://img.shields.io/github/stars/onsip/SIP.js?style=social&color=white)](https://github.com/onsip/SIP.js/stargazers)  
   🌐 **JavaScript SIP library for WebRTC** (MIT). Connects browser applications directly to SIP networks and PBX systems.
 
-- **[JsSIP](https://github.com/versatica/JsSIP)** [![GitHub stars](https://img.shields.io/github/stars/versatica/JsSIP?style=social&color=white)](https://github.com/versatica/JsSIP/stargazers)  
+- **[JsSIP](https://github.com/versatica/JsSIP)** [![GitHub_Stars](https://img.shields.io/github/stars/versatica/JsSIP?style=social&color=white)](https://github.com/versatica/JsSIP/stargazers)  
   ☎️ **Pure JavaScript SIP library** (MIT). Lightweight WebRTC SIP user agent for audio and video calls over WebSockets.
 
 ---
 
 ### 💬 Messaging, Team Chat & Federated Protocols
 
-- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
+- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub_Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
   💬 **Open-source enterprise communication platform** (MIT). Features channels, direct messaging, omnichannel customer chat, and voice/video integrations.
 
-- **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)  
+- **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub_Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)  
   🛡️ **Self-hosted developer team collaboration platform** (MIT/AGPL). Secure messaging, task workflows, and voice/video calls for technical teams.
 
-- **[Element Web](https://github.com/element-hq/element-web)** [![GitHub stars](https://img.shields.io/github/stars/element-hq/element-web?style=social&color=white)](https://github.com/element-hq/element-web/stargazers)  
+- **[Element Web](https://github.com/element-hq/element-web)** [![GitHub_Stars](https://img.shields.io/github/stars/element-hq/element-web?style=social&color=white)](https://github.com/element-hq/element-web/stargazers)  
   🔐 **Flagship Matrix client web app** (Apache-2.0). Enterprise-grade end-to-end encrypted messaging, voice/video calls, and cross-platform bridges.
 
-- **[Matrix Synapse](https://github.com/element-hq/synapse)** [![GitHub stars](https://img.shields.io/github/stars/element-hq/synapse?style=social&color=white)](https://github.com/element-hq/synapse/stargazers)  
+- **[Matrix Synapse](https://github.com/element-hq/synapse)** [![GitHub_Stars](https://img.shields.io/github/stars/element-hq/synapse?style=social&color=white)](https://github.com/element-hq/synapse/stargazers)  
   🌐 **Reference Matrix homeserver implementation** (AGPL-3.0). Powers decentralized, federated real-time chat and communication networks.
 
 ---
 
 ### 📞 Telephony, PBX & SIP Infrastructure
 
-- **[Asterisk](https://github.com/asterisk/asterisk)** [![GitHub stars](https://img.shields.io/github/stars/asterisk/asterisk?style=social&color=white)](https://github.com/asterisk/asterisk/stargazers)  
+- **[Asterisk](https://github.com/asterisk/asterisk)** [![GitHub_Stars](https://img.shields.io/github/stars/asterisk/asterisk?style=social&color=white)](https://github.com/asterisk/asterisk/stargazers)  
   ☎️ **World's most widely deployed open-source PBX** (GPL-2.0). Supports SIP, IAX2, PRI, WebRTC, IVR engines, and voicemail servers.
 
-- **[FreeSWITCH](https://github.com/signalwire/freeswitch)** [![GitHub stars](https://img.shields.io/github/stars/signalwire/freeswitch?style=social&color=white)](https://github.com/signalwire/freeswitch/stargazers)  
+- **[FreeSWITCH](https://github.com/signalwire/freeswitch)** [![GitHub_Stars](https://img.shields.io/github/stars/signalwire/freeswitch?style=social&color=white)](https://github.com/signalwire/freeswitch/stargazers)  
   🎛️ **Carrier-grade open-source softswitch** (MPL-1.1). Scalable multi-protocol telephony platform powering voice, video, and WebRTC PBX systems.
 
-- **[Kamailio](https://github.com/kamailio/kamailio)** [![GitHub stars](https://img.shields.io/github/stars/kamailio/kamailio?style=social&color=white)](https://github.com/kamailio/kamailio/stargazers)  
+- **[Kamailio](https://github.com/kamailio/kamailio)** [![GitHub_Stars](https://img.shields.io/github/stars/kamailio/kamailio?style=social&color=white)](https://github.com/kamailio/kamailio/stargazers)  
   🚦 **Ultra-fast open-source SIP server** (GPL-2.0). Handles millions of call routing requests, SIP load balancing, and carrier-grade security.
 
-- **[OpenSIPS](https://github.com/OpenSIPS/opensips)** [![GitHub stars](https://img.shields.io/github/stars/OpenSIPS/opensips?style=social&color=white)](https://github.com/OpenSIPS/opensips/stargazers)  
+- **[OpenSIPS](https://github.com/OpenSIPS/opensips)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenSIPS/opensips?style=social&color=white)](https://github.com/OpenSIPS/opensips/stargazers)  
   ⚡ **High-performance SIP proxy and routing engine** (GPL-2.0). Optimized for SIP trunking, class 4/5 softswitches, and VoIP backbones.
 
-- **[Linphone Desktop](https://github.com/BelledonneCommunications/linphone-desktop)** [![GitHub stars](https://img.shields.io/github/stars/BelledonneCommunications/linphone-desktop?style=social&color=white)](https://github.com/BelledonneCommunications/linphone-desktop/stargazers)  
+- **[Linphone Desktop](https://github.com/BelledonneCommunications/linphone-desktop)** [![GitHub_Stars](https://img.shields.io/github/stars/BelledonneCommunications/linphone-desktop?style=social&color=white)](https://github.com/BelledonneCommunications/linphone-desktop/stargazers)  
   📱 **Cross-platform open-source SIP softphone** (GPL-3.0). Supports HD voice, video, instant messaging, and ZRTP encryption.
 
-- **[Drachtio](https://github.com/drachtio/drachtio-server)** [![GitHub stars](https://img.shields.io/github/stars/drachtio/drachtio-server?style=social&color=white)](https://github.com/drachtio/drachtio-server/stargazers)  
+- **[Drachtio](https://github.com/drachtio/drachtio-server)** [![GitHub_Stars](https://img.shields.io/github/stars/drachtio/drachtio-server?style=social&color=white)](https://github.com/drachtio/drachtio-server/stargazers)  
   ⚙️ **Node.js SIP application server engine** (MIT). Simplifies building complex programmable voice and telephony applications.
 
 ---
 
 ### 🌐 Network Infrastructure & NAT Traversal
 
-- **[Coturn](https://github.com/coturn/coturn)** [![GitHub stars](https://img.shields.io/github/stars/coturn/coturn?style=social&color=white)](https://github.com/coturn/coturn/stargazers)  
+- **[Coturn](https://github.com/coturn/coturn)** [![GitHub_Stars](https://img.shields.io/github/stars/coturn/coturn?style=social&color=white)](https://github.com/coturn/coturn/stargazers)  
   📡 **Free open-source STUN and TURN server** (BSD-3-Clause). Essential infrastructure element for WebRTC NAT traversal and media relay behind strict firewalls.
 
 ---
